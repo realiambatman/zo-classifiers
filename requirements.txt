@@ -1,0 +1,2 @@
+numpy
+torch    # only for train.py; zo_classify.py needs numpy alone
